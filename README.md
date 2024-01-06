@@ -1,1 +1,1 @@
-Pinterest-Cloning
+Pinterest
