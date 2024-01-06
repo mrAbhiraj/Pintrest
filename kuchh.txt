@@ -1,0 +1,12 @@
+/ - login and register screen 
+/register
+/login
+/profile - profile page with boards
+/feed - feed page with all different pins
+/save/:pinid - save krenge pin ko isi board m
+/delete/:pinid- delete karenge pin ko kisi board se 
+/logout
+/edit
+/upload
+
+1:50min with some error
